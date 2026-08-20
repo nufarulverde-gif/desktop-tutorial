@@ -1,5 +1,13 @@
-# Welcome to GitHub Desktop!
+# Curățătorie profesionistă
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Un site de prezentare simplu pentru o curățătorie dry cleaning.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Fișiere
+
+- `index.html` — pagina principală de prezentare.
+- `styles.css` — stilurile pentru design modern și responsive.
+
+## Deschidere
+
+Deschide `index.html` în browser.
+
